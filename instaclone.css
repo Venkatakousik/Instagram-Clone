@@ -207,7 +207,7 @@ section .left-side{
         width: 100%;
     }
     .right-side{
-    
+        display:none;
     }
     .header{
         display: flex;
